@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Submission</string>
+    <string name="list">List</string>
+    <string name="profile">Profile</string>
+    <string name="kiki">K I K I</string>
+    <string name="email">tabungganku@gmail.com</string>
+    <string name="instagram">Instagram</string>
+    <string name="facebook">Facebook</string>
+    <string name="grid">Grid</string>
+    <string name="Card">Card</string>
+    <string name="home">Home</string>
+    <string name="buy">buy</string>
+    <string name="cart">cart</string>
+    <string name="spesification">Spesification:</string>
+    <string name="stok">Stok</string>
+    <string name="Merek">Merek</string>
+    <string name="os">Operating System</string>
+    <string name="resolusi">Resolusi</string>
+    <string name="memory">Memory | Ram</string>
+    <string name="jumlah">Jumlah</string>
+
+</resources>
